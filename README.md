@@ -12,7 +12,7 @@ then go to http://localhost:3001
 
 ## Example Usage
 
-Deployed App:
+Deployed App: `https://budget-tracker-version-1.herokuapp.com/`
 
 ## License
 
